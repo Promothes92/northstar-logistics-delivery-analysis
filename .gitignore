@@ -1,0 +1,16 @@
+# Local environment and editor files
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local database exports and credentials
+*.dump
+*.backup
+*.sql.gz
+pgpass

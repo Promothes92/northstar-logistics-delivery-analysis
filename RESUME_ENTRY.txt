@@ -1,0 +1,11 @@
+RESUME ENTRY — use after you run the SQL and can explain the work
+
+Supply Chain Delivery Performance Analysis | PostgreSQL, SQL
+- Built a relational sample dataset and reusable PostgreSQL queries to analyze delivery timeliness, regional performance, customer activity, and product revenue.
+- Used joins, conditional aggregation, CASE statements, CTEs, date arithmetic, and window functions to calculate delivery KPIs and rank product revenue.
+- Added data-quality checks, explicit metric definitions, and reconciliation queries to improve transparency and reproducibility.
+- Analyzed a fictional 12-order dataset; documented the small-sample limitation and separated undelivered orders from completed-delivery metrics.
+
+Portfolio: https://github.com/Promothes92/northstar-logistics-delivery-analysis
+
+Important: This is a self-directed practice project with fictional data. Do not claim real client or employment experience. Verify the queries and be ready to explain the metrics before adding this entry to a resume.
